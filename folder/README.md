@@ -2,13 +2,11 @@
 
 Here is some intro text.
 
-<!-- begin-overview -->
-
+<!-- begin-sample -->
 # The section we want to sync
 
 Some content in the section
-
-<!-- end-overview -->
+<!-- end-sample -->
 
 # Another section
 
